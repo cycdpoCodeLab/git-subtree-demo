@@ -4,7 +4,7 @@
   "description": "git subtree demo",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "subtree": "git subtree push --prefix=dist origin subtree"
   },
   "repository": {
     "type": "git",
